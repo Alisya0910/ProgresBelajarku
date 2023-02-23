@@ -1,3 +1,4 @@
 Belajar Git
 ==
-Hari ini saya akan belajar Git
+Hari ini saya akan belajar Git dan conflict
+saya akan membuat conflict seperti sehari-hari
